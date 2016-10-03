@@ -1,6 +1,7 @@
 package oefening1;
 
 public abstract class Dier {
+	//test
 	
 	private String naam;
 
